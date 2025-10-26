@@ -62,7 +62,7 @@ export const ROOMS = [
     district: "Sơn Trà",
     city: "Đà Nẵng",
     time: "3 ngày trước",
-    img: "https://picsum.photos/seed/room6/800/600",
+    img: "/images/images6.jpg",
     desc: "Gần biển, an ninh, giờ giấc tự do."
   }
 ];
