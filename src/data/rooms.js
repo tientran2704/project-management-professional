@@ -40,7 +40,7 @@ export const ROOMS = [
     district: "Liên Chiểu",
     city: "Đà Nẵng",
     time: "Hôm nay",
-    img: "https://picsum.photos/seed/room4/800/600",
+    img: "/images/images4.jpg",
     desc: "Thang máy, máy giặt chung, để xe tầng trệt."
   },
   {
