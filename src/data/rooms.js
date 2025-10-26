@@ -51,7 +51,7 @@ export const ROOMS = [
     district: "Ngũ Hành Sơn",
     city: "Đà Nẵng",
     time: "2 ngày trước",
-    img: "https://picsum.photos/seed/room5/800/600",
+    img: "/images/images5.jpg",
     desc: "Điện nước riêng, có chỗ nấu ăn, gần tạp hóa."
   },
   {
